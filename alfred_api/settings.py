@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
 
-    'users.apps.UsersConfig',
+    # 'users.apps.UsersConfig',
     'polls.apps.PollsConfig',
     'snippets.apps.SnippetsConfig',
 ]
