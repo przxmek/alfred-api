@@ -24,8 +24,8 @@ Temporary Items
 
 ### Python ###
 # Virtual env
-venv/
-.venv/
+venv*/
+.venv*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -86,6 +86,9 @@ target/
 *.pyc
 __pycache__/
 local_settings.py
+
+# IntelliJ
+.idea/
 
 .env
 db.sqlite3
